@@ -1,0 +1,19 @@
+body, html{
+    background-color:lightblue;
+}
+
+header{
+    background-color:dimgray;
+}
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.container{
+    background-color: lightsalmon;
+    align-content: center;
+}
+
